@@ -12,9 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Andrey Poponin
-* Codeship : 
-
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
+* Codeship : [ ![Codeship Status for vierri1/TsystemsTest](https://app.codeship.com/projects/9b866a00-35fe-0136-8653-321e8a5319d9/status?branch=master)](https://app.codeship.com/projects/289405)
 
 
 ### How to start?  ###
